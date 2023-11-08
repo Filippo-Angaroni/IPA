@@ -1,0 +1,11 @@
+{
+	"id": "ipa",
+	"name": "IPA Keyboard",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Simple IPA symbols tab",
+	"author": "Filippo Angaroni",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
